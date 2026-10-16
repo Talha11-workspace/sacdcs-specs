@@ -1,4 +1,4 @@
-# Task 1 – Requirement Extraction (Baseline v1.0)
+# Task 1 - Requirement Extraction (Baseline v1.0)
 
 I extracted the requirements below from the SACDCS scenario. Each one names a specific action and a way to check it. Verification methods use the standard set: **T** = Test, **D** = Demonstration, **I** = Inspection, **A** = Analysis, **S** = Simulation.
 

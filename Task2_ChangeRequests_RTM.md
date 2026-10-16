@@ -1,4 +1,4 @@
-# Task 2 – Change Requests & Requirements Traceability Matrix
+# Task 2 - Change Requests & Requirements Traceability Matrix
 
 ## 2.1 Version-controlled change log
 
